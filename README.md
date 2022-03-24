@@ -12,4 +12,4 @@ Writing appropriate jasmine test basic maths functions.
 
 # To run test
 
-run the command npm run
+run the command npm run test
